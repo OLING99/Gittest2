@@ -10,6 +10,7 @@ import SwiftUI
 struct GitTest: View {
     var body: some View {
         Text("올링")
+        Text("깃기싟")
     }
 }
 
