@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A90F23B62A6123DA00CFDA18 /* GitTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = A90F23B52A6123DA00CFDA18 /* GitTest.swift */; };
 		A95587052A2715AF00340B86 /* NC1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = A95587042A2715AF00340B86 /* NC1App.swift */; };
 		A95587092A2715B100340B86 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A95587082A2715B100340B86 /* Assets.xcassets */; };
 		A955870C2A2715B100340B86 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A955870B2A2715B100340B86 /* Preview Assets.xcassets */; };
@@ -28,6 +29,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A90F23B52A6123DA00CFDA18 /* GitTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTest.swift; sourceTree = "<group>"; };
 		A95587012A2715AF00340B86 /* NC1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NC1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A95587042A2715AF00340B86 /* NC1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NC1App.swift; sourceTree = "<group>"; };
 		A95587082A2715B100340B86 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				A95587042A2715AF00340B86 /* NC1App.swift */,
+				A90F23B52A6123DA00CFDA18 /* GitTest.swift */,
 				A95587242A2B8AAE00340B86 /* DachRun.swift */,
 				A95587282A2DB7EB00340B86 /* DachStart.swift */,
 				A9C0AC422A4E939F00018623 /* App Storage.swift */,
@@ -204,6 +207,7 @@
 				A955870E2A2715B100340B86 /* Persistence.swift in Sources */,
 				A95587212A2B898200340B86 /* Lottiefile.swift in Sources */,
 				A95587112A2715B100340B86 /* NC1.xcdatamodeld in Sources */,
+				A90F23B62A6123DA00CFDA18 /* GitTest.swift in Sources */,
 				A95587052A2715AF00340B86 /* NC1App.swift in Sources */,
 				A9C0AC432A4E939F00018623 /* App Storage.swift in Sources */,
 				A95587252A2B8AAE00340B86 /* DachRun.swift in Sources */,
