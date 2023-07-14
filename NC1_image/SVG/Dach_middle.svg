@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_몸통" data-name="몸통" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 844 150">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4b4846;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m372.71,58.69h124.67c10.38,0,18.8,8.42,18.8,18.8v17.18c0,11.16-9.06,20.23-20.23,20.23h-123.25c-.86,0-1.57-.7-1.57-1.57v-53.08c0-.86.7-1.57,1.57-1.57Z" transform="translate(887.32 173.59) rotate(-180)"/>
+</svg>

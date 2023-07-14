@@ -8,21 +8,44 @@
 
 /* Begin PBXBuildFile section */
 		A95587052A2715AF00340B86 /* NC1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = A95587042A2715AF00340B86 /* NC1App.swift */; };
-		A95587072A2715AF00340B86 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A95587062A2715AF00340B86 /* ContentView.swift */; };
 		A95587092A2715B100340B86 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A95587082A2715B100340B86 /* Assets.xcassets */; };
 		A955870C2A2715B100340B86 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A955870B2A2715B100340B86 /* Preview Assets.xcassets */; };
 		A955870E2A2715B100340B86 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = A955870D2A2715B100340B86 /* Persistence.swift */; };
 		A95587112A2715B100340B86 /* NC1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A955870F2A2715B100340B86 /* NC1.xcdatamodeld */; };
+		A95587192A27171600340B86 /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = A95587182A27171600340B86 /* Lottie */; };
+		A95587212A2B898200340B86 /* Lottiefile.swift in Sources */ = {isa = PBXBuildFile; fileRef = A95587202A2B898200340B86 /* Lottiefile.swift */; };
+		A95587232A2B8A8A00340B86 /* NC1_dach_run.json in Resources */ = {isa = PBXBuildFile; fileRef = A95587222A2B8A8A00340B86 /* NC1_dach_run.json */; };
+		A95587252A2B8AAE00340B86 /* DachRun.swift in Sources */ = {isa = PBXBuildFile; fileRef = A95587242A2B8AAE00340B86 /* DachRun.swift */; };
+		A95587292A2DB7EB00340B86 /* DachStart.swift in Sources */ = {isa = PBXBuildFile; fileRef = A95587282A2DB7EB00340B86 /* DachStart.swift */; };
+		A9A3ABD12A2F7244007C088B /* Dachfront.json in Resources */ = {isa = PBXBuildFile; fileRef = A9A3ABD02A2F7244007C088B /* Dachfront.json */; };
+		A9A3ABD32A30B2BA007C088B /* Dach3.json in Resources */ = {isa = PBXBuildFile; fileRef = A9A3ABD22A30B2B9007C088B /* Dach3.json */; };
+		A9A3ABD52A30C843007C088B /* Dachfin.json in Resources */ = {isa = PBXBuildFile; fileRef = A9A3ABD42A30C843007C088B /* Dachfin.json */; };
+		A9A3ABD72A30C8F6007C088B /* DachFinish.json in Resources */ = {isa = PBXBuildFile; fileRef = A9A3ABD62A30C8F6007C088B /* DachFinish.json */; };
+		A9A3ABD92A30CA5F007C088B /* NC1_bone.json in Resources */ = {isa = PBXBuildFile; fileRef = A9A3ABD82A30CA5F007C088B /* NC1_bone.json */; };
+		A9A3ABDB2A30CC63007C088B /* DachRun2.json in Resources */ = {isa = PBXBuildFile; fileRef = A9A3ABDA2A30CC62007C088B /* DachRun2.json */; };
+		A9A3ABDD2A31F5AE007C088B /* NC1_Background.json in Resources */ = {isa = PBXBuildFile; fileRef = A9A3ABDC2A31F5AE007C088B /* NC1_Background.json */; };
+		A9C0AC432A4E939F00018623 /* App Storage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9C0AC422A4E939F00018623 /* App Storage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		A95587012A2715AF00340B86 /* NC1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NC1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A95587042A2715AF00340B86 /* NC1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NC1App.swift; sourceTree = "<group>"; };
-		A95587062A2715AF00340B86 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A95587082A2715B100340B86 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A955870B2A2715B100340B86 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A955870D2A2715B100340B86 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		A95587102A2715B100340B86 /* NC1.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = NC1.xcdatamodel; sourceTree = "<group>"; };
+		A95587202A2B898200340B86 /* Lottiefile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lottiefile.swift; sourceTree = "<group>"; };
+		A95587222A2B8A8A00340B86 /* NC1_dach_run.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = NC1_dach_run.json; sourceTree = "<group>"; };
+		A95587242A2B8AAE00340B86 /* DachRun.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DachRun.swift; sourceTree = "<group>"; };
+		A95587282A2DB7EB00340B86 /* DachStart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DachStart.swift; sourceTree = "<group>"; };
+		A9A3ABD02A2F7244007C088B /* Dachfront.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Dachfront.json; sourceTree = "<group>"; };
+		A9A3ABD22A30B2B9007C088B /* Dach3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Dach3.json; sourceTree = "<group>"; };
+		A9A3ABD42A30C843007C088B /* Dachfin.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Dachfin.json; sourceTree = "<group>"; };
+		A9A3ABD62A30C8F6007C088B /* DachFinish.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = DachFinish.json; sourceTree = "<group>"; };
+		A9A3ABD82A30CA5F007C088B /* NC1_bone.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = NC1_bone.json; sourceTree = "<group>"; };
+		A9A3ABDA2A30CC62007C088B /* DachRun2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = DachRun2.json; sourceTree = "<group>"; };
+		A9A3ABDC2A31F5AE007C088B /* NC1_Background.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = NC1_Background.json; sourceTree = "<group>"; };
+		A9C0AC422A4E939F00018623 /* App Storage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "App Storage.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -30,6 +53,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A95587192A27171600340B86 /* Lottie in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -56,9 +80,12 @@
 			isa = PBXGroup;
 			children = (
 				A95587042A2715AF00340B86 /* NC1App.swift */,
-				A95587062A2715AF00340B86 /* ContentView.swift */,
+				A95587242A2B8AAE00340B86 /* DachRun.swift */,
+				A95587282A2DB7EB00340B86 /* DachStart.swift */,
+				A9C0AC422A4E939F00018623 /* App Storage.swift */,
 				A95587082A2715B100340B86 /* Assets.xcassets */,
 				A955870D2A2715B100340B86 /* Persistence.swift */,
+				A955871A2A271C3C00340B86 /* Utils */,
 				A955870F2A2715B100340B86 /* NC1.xcdatamodeld */,
 				A955870A2A2715B100340B86 /* Preview Content */,
 			);
@@ -71,6 +98,22 @@
 				A955870B2A2715B100340B86 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A955871A2A271C3C00340B86 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				A95587202A2B898200340B86 /* Lottiefile.swift */,
+				A9A3ABD82A30CA5F007C088B /* NC1_bone.json */,
+				A9A3ABDA2A30CC62007C088B /* DachRun2.json */,
+				A95587222A2B8A8A00340B86 /* NC1_dach_run.json */,
+				A9A3ABDC2A31F5AE007C088B /* NC1_Background.json */,
+				A9A3ABD02A2F7244007C088B /* Dachfront.json */,
+				A9A3ABD22A30B2B9007C088B /* Dach3.json */,
+				A9A3ABD42A30C843007C088B /* Dachfin.json */,
+				A9A3ABD62A30C8F6007C088B /* DachFinish.json */,
+			);
+			path = Utils;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -89,6 +132,9 @@
 			dependencies = (
 			);
 			name = NC1;
+			packageProductDependencies = (
+				A95587182A27171600340B86 /* Lottie */,
+			);
 			productName = NC1;
 			productReference = A95587012A2715AF00340B86 /* NC1.app */;
 			productType = "com.apple.product-type.application";
@@ -117,6 +163,9 @@
 				Base,
 			);
 			mainGroup = A95586F82A2715AF00340B86;
+			packageReferences = (
+				A95587172A27171600340B86 /* XCRemoteSwiftPackageReference "lottie-ios" */,
+			);
 			productRefGroup = A95587022A2715AF00340B86 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -131,8 +180,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A9A3ABD72A30C8F6007C088B /* DachFinish.json in Resources */,
+				A95587232A2B8A8A00340B86 /* NC1_dach_run.json in Resources */,
+				A9A3ABD92A30CA5F007C088B /* NC1_bone.json in Resources */,
 				A955870C2A2715B100340B86 /* Preview Assets.xcassets in Resources */,
+				A9A3ABD32A30B2BA007C088B /* Dach3.json in Resources */,
 				A95587092A2715B100340B86 /* Assets.xcassets in Resources */,
+				A9A3ABDD2A31F5AE007C088B /* NC1_Background.json in Resources */,
+				A9A3ABDB2A30CC63007C088B /* DachRun2.json in Resources */,
+				A9A3ABD12A2F7244007C088B /* Dachfront.json in Resources */,
+				A9A3ABD52A30C843007C088B /* Dachfin.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -143,10 +200,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A95587292A2DB7EB00340B86 /* DachStart.swift in Sources */,
 				A955870E2A2715B100340B86 /* Persistence.swift in Sources */,
-				A95587072A2715AF00340B86 /* ContentView.swift in Sources */,
+				A95587212A2B898200340B86 /* Lottiefile.swift in Sources */,
 				A95587112A2715B100340B86 /* NC1.xcdatamodeld in Sources */,
 				A95587052A2715AF00340B86 /* NC1App.swift in Sources */,
+				A9C0AC432A4E939F00018623 /* App Storage.swift in Sources */,
+				A95587252A2B8AAE00340B86 /* DachRun.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,8 +341,6 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -310,8 +368,6 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -347,6 +403,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		A95587172A27171600340B86 /* XCRemoteSwiftPackageReference "lottie-ios" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/airbnb/lottie-ios";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 4.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		A95587182A27171600340B86 /* Lottie */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A95587172A27171600340B86 /* XCRemoteSwiftPackageReference "lottie-ios" */;
+			productName = Lottie;
+		};
+/* End XCSwiftPackageProductDependency section */
 
 /* Begin XCVersionGroup section */
 		A955870F2A2715B100340B86 /* NC1.xcdatamodeld */ = {
